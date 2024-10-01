@@ -4,10 +4,10 @@ Vault, Concourse, Korifi, Nexus
 
 ### Work in progress
 
-🙋‍♀️ Inspired by [Spring Cloud Pipelines](https://github.com/spring-attic/spring-cloud-pipelines) and [Marcin Grzejszczak](https://github.com/marcingrzejszczak) 
-🌈 PRs welcomed!
-👩‍💻 I try to make things public and as secure as possible.
-🍿 Fun facts - This works on Raspberry Pi devices
+- 🙋‍♀️ Inspired by [Spring Cloud Pipelines](https://github.com/spring-attic/spring-cloud-pipelines) and [Marcin Grzejszczak](https://github.com/marcingrzejszczak) 
+- 🌈 PRs welcomed!
+- 👩‍💻 I try to make things public and as secure as possible.
+- 🍿 Fun facts - This works on Raspberry Pi devices
 
 ### Getting started
 
