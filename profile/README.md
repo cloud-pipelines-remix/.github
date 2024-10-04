@@ -12,6 +12,6 @@ Vault, Concourse, Korifi, Nexus
 ### Getting started
 
 1. Create a Kubernetes cluster. I'm currently testing with [Korifi](https://tutorials.cloudfoundry.org/korifi/local-install/)
-2. Deploy a Vault. I'm currently using the [Helm chart](https://github.com/hashicorp/vault-helm).
-3. Add some Concourse secrets to Vault.
+2. Deploy a Spring Cloud Gateway that will expose Vault and Concourse
+3. Deploy a Vault. I'm currently using the [Helm chart](https://github.com/hashicorp/vault-helm).
 4. Deploy Concourse.  I'm currently using the [Helm chart](https://github.com/concourse/concourse-chart) 
